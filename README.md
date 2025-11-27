@@ -17,4 +17,7 @@ sudo mv /usr/local/sbin/supermon/weather.sh /usr/local/sbin/supermon/weather.sh.
 ```
 sudo wget https://raw.githubusercontent.com/KD5FMU/New-weather.sh-file/refs/heads/main/weather.sh
 ```
+#### Now you can configure the weather info ####
+This new scrupt file works with overseas Airport ICAO codes.
+
 
