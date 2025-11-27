@@ -23,6 +23,7 @@ For Supermon 7.4 weather information chage the weather.sh file in the /var/www/h
 <br>
 This is where you will chage the Zip Code or Airport code
 <br>
+<br>
 ![global-inc](https://github.com/KD5FMU/New-weather.sh-file/blob/main/global-inc.png)
 <br>
 Now you can do a 
