@@ -5,7 +5,7 @@ First things first
 
 #### Lets Change our directory to the correct location ####
 ```
-cd /usr/local/sbin/
+cd /usr/local/sbin/supermon
 ```
 
 #### let's backup the exisitng weather.sh file just to be on the safe side ####
@@ -15,6 +15,6 @@ sudo mv /usr/local/sbin/supermon/weather.sh /usr/local/sbin/supermon/weather.sh.
 
 #### Download the new file ####
 ```
-https://raw.githubusercontent.com/KD5FMU/New-weather.sh-file/refs/heads/main/weather.sh
+sudo wget https://raw.githubusercontent.com/KD5FMU/New-weather.sh-file/refs/heads/main/weather.sh
 ```
 
