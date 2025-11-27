@@ -19,6 +19,10 @@ sudo wget https://raw.githubusercontent.com/KD5FMU/New-weather.sh-file/refs/head
 ```
 #### Now you can configure the weather info ####
 This new scrupt file works with overseas Airport ICAO codes.
+For Supermon 7.4 weather information chage the weather.sh file in the /var/www/html/supermon/global.inc
+
+
+
 ![Logo](https://github.com/KD5FMU/New-weather.sh-file/blob/main/weather-sh-file.png)
 
 
