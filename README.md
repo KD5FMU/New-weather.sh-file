@@ -1,3 +1,20 @@
 # New-weather.sh-file
 This is the latest weather.sh file, Updated by Mike Webb WG5EEK and Paul Aidukas KN2R
 ### Novenber 27th, 2025 ###
+First things first
+
+#### Lets Change our directory to the correct location ####
+```
+cd /usr/local/sbin/
+```
+
+let's backup the exisitng weather.sh file just to be on the safe side
+```
+sudo mv /usr/local/sbin/supermon/weather.sh /usr/local/sbin/supermon/weather.sh.bak
+```
+
+Download the new file
+```
+https://raw.githubusercontent.com/KD5FMU/New-weather.sh-file/refs/heads/main/weather.sh
+```
+
