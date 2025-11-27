@@ -19,5 +19,6 @@ sudo wget https://raw.githubusercontent.com/KD5FMU/New-weather.sh-file/refs/head
 ```
 #### Now you can configure the weather info ####
 This new scrupt file works with overseas Airport ICAO codes.
+![Logo] (https://github.com/KD5FMU/New-weather.sh-file/blob/main/weather-sh-file.png)
 
 
